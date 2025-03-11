@@ -29,7 +29,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="![image](https://github.com/user-attachments/assets/456a404a-cab5-4f01-b902-22bfb96f934d)
+<img src="(https://github.com/user-attachments/assets/456a404a-cab5-4f01-b902-22bfb96f934d)
 "/>
 </p>
 <p>
@@ -63,7 +63,7 @@ Ken
 <br />
 
 <p>
-<img src="![image](https://github.com/user-attachments/assets/45b4e407-0e4c-49c6-926e-80a36d461388)
+<img src="https://github.com/user-attachments/assets/45b4e407-0e4c-49c6-926e-80a36d461388
 "/>
 </p>
 <p>
@@ -80,7 +80,7 @@ create Sev-C (Grace Period: 8 hours, Business Hours)
 <br />
 
 <p>
-<img src="![image](https://github.com/user-attachments/assets/c71127ec-a2b5-472a-9e8f-9eaf11168dc9)
+<img src="https://github.com/user-attachments/assets/c71127ec-a2b5-472a-9e8f-9eaf11168dc9
 "/>
 </p>
 <p>
